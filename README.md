@@ -22,6 +22,8 @@
 <a href="https://www.hackerrank.com/at049133" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="at049133" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abhinavtiwari2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhinavtiwari2" height="30" width="40" /></a>
 <a href="https://linktr.ee/abhinav_tiwari_" target="blank"><img align="center" src="https://github.com/Abhinavtiwari-doit/Abhinavtiwari-doit/blob/main/linktree.svg" alt="abhinavtiwari2" height="30" width="40" /></a>
+<a href="https://hackerone.com/abhiat?type=user" target="blank"><img align="center" src="https://github.com/Abhinavtiwari-doit/Abhinavtiwari-doit/blob/main/hackerone.svg" alt="abhinavtiwari2" height="30" width="40" /></a>
+  <a href="https://bugcrowd.com/abhinavtiwari756" target="blank"><img align="center" src="https://github.com/Abhinavtiwari-doit/Abhinavtiwari-doit/blob/main/bugcrowd.svg" alt="abhinavtiwari2" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack:
