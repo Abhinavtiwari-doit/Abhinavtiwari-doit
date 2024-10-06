@@ -2,8 +2,7 @@
 🔭 I’m currently working on Data Science and Machine learning models<br><br>🌱 I’m currently learning Machine learning, DevOps, Web3, Cloud technologies<br><br>👨‍💻 All of my projects are available at https://linktr.ee/abhinav_tiwari_<br><br>💬 Ask me about Data analysis, No-Code development, Blockchain<br><br>📫 How to reach me at049133@gmail.com<br><br>📄 Know about my experiences https://docs.google.com/document/d/1Wi88cqR0KtCJ-CddHEGaKdPtWqbvIUiSWUe1BqnBq6I/edit?usp=sharing
 
 
-## 🌐 Socials:
-<h3 align="left">Connect with me:</h3>
+## 🌐 Connect with me:
 <p align="left">
 <a href="https://twitter.com/abhinavt456" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhinavt456" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abhinavtiwari--" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinavtiwari--" height="30" width="40" /></a>
