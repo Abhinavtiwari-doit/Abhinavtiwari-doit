@@ -1,6 +1,14 @@
 # 💫 About Me:
 🔭 I’m currently working on Data Science and Machine learning models<br><br>🌱 I’m currently learning Machine learning, DevOps, Web3, Cloud technologies<br><br>👨‍💻 All of my projects are available at https://linktr.ee/abhinav_tiwari_<br><br>💬 Ask me about Data analysis, No-Code development, Blockchain<br><br>📫 How to reach me at049133@gmail.com<br><br>📄 Know about my experiences https://docs.google.com/document/d/1Wi88cqR0KtCJ-CddHEGaKdPtWqbvIUiSWUe1BqnBq6I/edit?usp=sharing
 
+<!-- Begin HubSpot Academy - SEO Badge -->
+<div class='academy-badge'>
+<a href='https://app.hubspot.com/academy/achievements/d8n4vkqb/en/1/abhinav-tiwari/seo' title='SEO'>
+<img src='https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/f7a4489555434812bf4e64d0bf1f3850.png' />
+</a>
+</div>
+<!-- End: HubSpot Academy - SEO Badge -->
+
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/abhinavtiwari7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_okay_abhi_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinavtiwari--) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/abhinavt456) 
