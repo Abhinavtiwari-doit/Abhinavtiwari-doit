@@ -1,25 +1,32 @@
-# 💫 About Me:
+###
 
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-🔭 I’m currently working on Data Science and Machine learning models<br><br>🌱 I’m currently learning Machine learning, Data Science, Cloud technologies<br><br>👨‍💻 All of my projects are available at https://linktr.ee/abhinav_tiwari_<br><br>💬 Ask me about Data analysis, Blockchain<br><br>📫 How to reach me at049133@gmail.com<br><br>📄 Know about my experiences https://docs.google.com/document/d/1Wi88cqR0KtCJ-CddHEGaKdPtWqbvIUiSWUe1BqnBq6I/edit?usp=sharing
+###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div>
 
-## 🌐 Connect with me:
-<p align="left">
+###
+
+<p align="center">
 <a href="https://twitter.com/abhinavt456" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhinavt456" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abhinavtiwari--" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinavtiwari--" height="30" width="40" /></a>
 <a href="https://kaggle.com/abhinavtiwari2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abhinavtiwari2005" height="30" width="40" /></a>
-<a href="https://instagram.com/its_okay_abhi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_okay_abhi_" height="30" width="40" /></a>
-<a href="https://dribbble.com/abhinavtiwari156" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="abhinavtiwari156" height="30" width="40" /></a>
-<a href="https://www.behance.net/abhinavtiwari7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="abhinavtiwari7" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/at049133" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="at049133" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abhinavtiwari2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhinavtiwari2" height="30" width="40" /></a>
-<a href="https://hackerone.com/abhiat?type=user" target="blank"><img align="center" src="https://github.com/Abhinavtiwari-doit/Abhinavtiwari-doit/blob/main/hackerone.svg" alt="abhinavtiwari2" height="30" width="40" /></a>
-  <a href="https://bugcrowd.com/abhinavtiwari756" target="blank"><img align="center" src="https://github.com/Abhinavtiwari-doit/Abhinavtiwari-doit/blob/main/bugcrowd.svg" alt="abhinavtiwari2" height="30" width="40" /></a>
 </p>
+
+###
+
+# 💫 About Me:
+
+🔭 I’m currently working on Data Science and Machine learning models<br><br>🌱 I’m currently learning Machine learning, Data Science, Cloud technologies<br><br>👨‍💻 All of my projects are available at https://linktr.ee/abhinav_tiwari_<br><br>💬 Ask me about Data analysis, Blockchain<br><br>📫 How to reach me at049133@gmail.com<br><br>📄 Know about my experiences https://docs.google.com/document/d/1Wi88cqR0KtCJ-CddHEGaKdPtWqbvIUiSWUe1BqnBq6I/edit?usp=sharing
+
+
+
 
 
 # 💻 Tech Stack:
@@ -27,20 +34,45 @@
 
 
 # 📊 GitHub Stats:
+
+<div align="center" style="width: 100%">
 ![](https://github-readme-stats.vercel.app/api?username=Abhinavtiwari-doit&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Abhinavtiwari-doit&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinavtiwari-doit&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
 ## 🏆 GitHub Trophies
+
+<div align="center" style="width: 100%">
 ![](https://github-profile-trophy.vercel.app/?username=Abhinavtiwari-doit&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+### 
 
-### 🔝 Top Contributed Repo
+🔝 Top Contributed Repo
+<div align="center" style="width: 100%">
 ![](https://github-contributor-stats.vercel.app/api?username=Abhinavtiwari-doit&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=Abhinavtiwari-doit&icon=0&color=1)](https://visitcount.itsvg.in)
+###
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center" style="width: 100%">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
+  </a>
+</div>
+
+###
+
+<div align="center" style="width: 100%">
+<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" />
+</div>
+
+###
+
