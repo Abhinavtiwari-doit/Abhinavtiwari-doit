@@ -1,4 +1,9 @@
 # 💫 About Me:
+
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
 🔭 I’m currently working on Data Science and Machine learning models<br><br>🌱 I’m currently learning Machine learning, Data Science, Cloud technologies<br><br>👨‍💻 All of my projects are available at https://linktr.ee/abhinav_tiwari_<br><br>💬 Ask me about Data analysis, Blockchain<br><br>📫 How to reach me at049133@gmail.com<br><br>📄 Know about my experiences https://docs.google.com/document/d/1Wi88cqR0KtCJ-CddHEGaKdPtWqbvIUiSWUe1BqnBq6I/edit?usp=sharing
 
 
