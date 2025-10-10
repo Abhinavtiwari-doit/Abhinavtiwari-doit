@@ -6,6 +6,12 @@
 
 ###
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Aspiring+AI+and+ML+Engineer,;Exploring+Data+Science+and+MERN,;Interested+in+Open+Source+and+Research,;Love+learning+new+tech"></a>
+</p>
+
+###
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Abhinavtiwari-doit.Abhinavtiwari-doit" />
 </div>
@@ -131,7 +137,10 @@ Here are some of my recent articles where I share hands-on insights on Python, A
 ###
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=ffffff&width=500&lines=Data+Science;Data+Analyst;Machine+Learning;Open+Source+Contributor;Python+Coder;Artificial+Intelligence" alt="Typing animation" />
+  <img src="https://raw.githubusercontent.com/Ch-Kumar-Kartik/Ch-Kumar-Kartik/output/snake.svg" alt="Snake animation" />
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
 ###
