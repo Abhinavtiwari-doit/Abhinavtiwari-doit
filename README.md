@@ -41,8 +41,7 @@
 # 💫 About Me:
 🔭 I’m currently working on **Data Science** and **Machine Learning** models  
 🌱 Learning **Machine Learning**, **Data Science**, and **Cloud Technologies**  
-👨‍💻 All my projects are available at [Linktree](https://linktr.ee/abhinav_tiwari_)  
-💬 Ask me about **Data Analysis** and **Blockchain**  
+💬 Ask me about **Data Analysis** and **Web3**  
 📫 Reach me at **at049133@gmail.com**  
 📄 View my [Resume](https://drive.google.com/file/d/1RVKMElA7kxylVwrWosw2HXcDielSQjN-/view?usp=sharing)
 
