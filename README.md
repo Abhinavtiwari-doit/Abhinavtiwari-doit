@@ -7,7 +7,7 @@
 ###
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Aspiring+AI+and+ML+Engineer,;Exploring+Data+Science+and+MERN,;Interested+in+Open+Source+and+Research,;Love+learning+new+tech"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Aspiring+AI+and+ML+Engineer,;Exploring+Data+Science+Web3,;Interested+in+Open+Source+and+Research,;Love+learning+new+tech"></a>
 </p>
 
 ###
