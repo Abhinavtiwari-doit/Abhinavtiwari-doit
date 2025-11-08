@@ -6,10 +6,6 @@
 
 ###
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Aspiring+AI+and+ML+Engineer,;Exploring+Data+Science+Web3,;Interested+in+Open+Source+and+Research,;Love+learning+new+tech"></a>
-</p>
-
 ###
 
 <div align="center">
@@ -18,95 +14,78 @@
 
 ###
 
+<h1 align="center">👋 Hi, I'm Abhinav Tiwari</h1>
 <p align="center">
-  <a href="https://twitter.com/abhinavt456" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhinavt456" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/abhinavtiwari--" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinavtiwari--" height="30" width="40" />
-  </a>
-  <a href="https://kaggle.com/abhinavtiwari2005" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abhinavtiwari2005" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/abhinavtiwari2" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhinavtiwari2" height="30" width="40" />
-  </a>
-<a href="https://hashnode.com/@abhinavtiwari" target="_blank">
-  <img src="https://github.com/user-attachments/assets/96b25f27-7357-4db5-b446-c6b71d187e87" alt="Blog" height="30" width="30" />
-</a>
+  <b>Data Analyst • Data Scientist • Machine Learning Engineer • AI App Builder</b><br>
+  Turning raw data into intelligent solutions through ML, automation & interactive analytics.
 </p>
-
-###
-
-# 💫 About Me:
-🔭 I’m currently working on **Data Science** and **Machine Learning** models  
-🌱 Learning **Machine Learning**, **Data Science**, and **Cloud Technologies**  
-💬 Ask me about **Data Analysis** and **Web3**  
-📫 Reach me at **at049133@gmail.com**  
-📄 View my [Resume](https://drive.google.com/file/d/1RVKMElA7kxylVwrWosw2HXcDielSQjN-/view?usp=sharing)
 
 ---
 
-## 💻 Tech Stack
-
-<p align="center">
-  <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-<p align="center">
-  <!-- Data Science & Machine Learning -->
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" />
-  <img src="https://img.shields.io/badge/Seaborn-0099CC?style=for-the-badge&logo=seaborn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-</p>
-
-<p align="center">
-  <!-- Web frameworks & Databases -->
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
-<p align="center">
-  <!-- Cloud & DevOps -->
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
-<p align="center">
-  <!-- Tools & Platforms -->
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-</p>
-
+### 💡 What I Do
+- 🧠 Build & deploy **AI-powered applications** (NLP, CV, Predictive Models)
+- 📊 Create **data-driven dashboards** (Advance Excel, Power BI, Python)
+- ⚙️ Develop **end-to-end ML pipelines** (EDA → Feature Engineering → Model → Deployment)
+- 🛒 Freelance projects in **Shopify, automation & analytics**
+- 🔍 Interested in GenAI, LLM apps, intelligent automation, agentic systems
 
 ---
 
-## 📊 GitHub Stats:
+### 🚀 Featured Projects
+| Project | Tech | Demo / Repo |
+|---------|------|-------------|
+| 🤖 **AI Smart Health Diagnosis App** | ML, Streamlit, Scikit-Learn | 🔗 `https://shorturl.at/gVA7b` |
+| 🔥 **Roast My Code – AI Code Reviewer** | Hugging Face, NLP, FastAPI | 🔗 `https://shorturl.at/dHvXZ` |
+| 📈 **Interactive Excel Sales Dashboard** | Excel, Power Query, DAX | 🔗 `https://shorturl.at/FgQKi` |
+
+> Each featured repo includes: problem, dataset, solution approach, results, and deployment instructions.
+
+---
+
+### 🛠️ Tech Stack & Tools
+```yaml
+Languages: Python, MySQL, HTML5, CSS3, MongoDB
+AI/ML: Scikit-Learn, TensorFlow, Hugging Face, Pandas, NumPy, Pytorch, Seaborn, Matplotlib
+Deployment: Streamlit, FastAPI, Flask, Render, HuggingFace Spaces
+Data: Power BI, Advance Excel, ETL, Data Cleaning, Data Modelling, Feature Engineering
+DevOps / Tools: Git, GitHub Actions, Docker, VS Code, Jupyter Notebook, Google Collab
+```
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhinavtiwari-doit&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinavtiwari-doit&theme=tokyonight&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinavtiwari-doit&theme=tokyonight&hide_border=false&layout=compact" />
+
+<table>
+<tr>
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Abhinavtiwari-doit&show_icons=true&theme=tokyonight" height="170"/>
+
+</td>
+<td>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinavtiwari-doit&theme=tokyonight" height="170"/>
+
+</td>
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinavtiwari-doit&layout=compact&theme=tokyonight" height="170"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+  
+| Platform     | Link                                              |
+| ------------ | ------------------------------------------------- |
+| 🔗 LinkedIn  | (https://www.linkedin.com/in/abhinavtiwari--/) |
+| 🌐 Portfolio | (https://www.datascienceportfol.io/Abhinav_Tiwari)|
+| 📧 Email     | [at049133@gmail.com](mailto:at049133@gmail.com)   |
+| 🌐 Blogs    | (https://hashnode.com/@abhinavtiwari)             |
+| 🧾 Resume    | (https://shorturl.at/yVJvL) |
+
 </div>
 
 ---
@@ -118,25 +97,22 @@
 
 ---
 
-## 🔝 Top Contributed Repo:
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Abhinavtiwari-doit&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</div>
+### 👨‍💻 Currently Working On
+- 🧠 AI-powered Full Stack Interview Coach (LLM-based)
+- 🤝 Freelance AI + automation projects
+- 📘 Preparing ML case studies for portfolio
 
-###
+---
 
-🧠 **Latest Technical Blogs on Hashnode**
+### 💼 Open To
+✅ Full-time roles — *Data Scientist / ML Engineer*  
+✅ Freelance work — *AI apps, dashboards, automation*  
+✅ Open-source collaboration — *ML / GenAI projects*
 
-Here are some of my recent articles where I share hands-on insights on Python, AI/ML, and open-source development.
+---
 
-<!-- BLOG-POST-LIST:START -->
-- [Building a Screen Recorder in Python (PyAutoGUI + OpenCV)](https://screen-recorder-python-opencv-pyautogui.hashnode.dev/build-a-screen-recorder-in-python-pyautogui-opencvwin32api)
-<!-- BLOG-POST-LIST:END -->
+⭐ If you like my work, feel free to star ⭐ my repos or reach out.
 
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Ch-Kumar-Kartik/Ch-Kumar-Kartik/output/snake.svg" alt="Snake animation" />
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
