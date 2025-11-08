@@ -26,7 +26,7 @@
 - 🧠 Build & deploy **AI-powered applications** (NLP, CV, Predictive Models)
 - 📊 Create **data-driven dashboards** (Advance Excel, Power BI, Python)
 - ⚙️ Develop **end-to-end ML pipelines** (EDA → Feature Engineering → Model → Deployment)
-- 🛒 Freelance projects in **Shopify, automation & analytics**
+- 🛒 Freelance projects in **Dashboards, AI agents, automation & analytics**
 - 🔍 Interested in GenAI, LLM apps, intelligent automation, agentic systems
 
 ---
@@ -105,9 +105,9 @@ DevOps / Tools: Git, GitHub Actions, Docker, VS Code, Jupyter Notebook, Google C
 ---
 
 ### 💼 Open To
-✅ Full-time roles — *Data Scientist / ML Engineer*  
-✅ Freelance work — *AI apps, dashboards, automation*  
-✅ Open-source collaboration — *ML / GenAI projects*
+✅ Full-time roles — Data Analyst / Data Scientist / ML Engineer  
+✅ Freelance work — AI apps, dashboards, automation  
+✅ Open-source collaboration — ML / GenAI projects  
 
 ---
 
