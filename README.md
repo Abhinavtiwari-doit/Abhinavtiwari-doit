@@ -81,7 +81,7 @@ DevOps / Tools: Git, GitHub Actions, Docker, VS Code, Jupyter Notebook, Google C
 | Platform     | Link                                              |
 | ------------ | ------------------------------------------------- |
 | 🔗 LinkedIn  | (https://www.linkedin.com/in/abhinavtiwari--/) |
-| 🌐 Portfolio | (https://www.datascienceportfol.io/Abhinav_Tiwari)|
+| 🌐 Portfolio | (https://abhinavtiwari.framer.website/)|
 | 📧 Email     | [at049133@gmail.com](mailto:at049133@gmail.com)   |
 | 🌐 Blogs    | (https://hashnode.com/@abhinavtiwari)             |
 | 🧾 Resume    | (https://shorturl.at/yVJvL) |
