@@ -50,30 +50,6 @@ Deployment: Streamlit, FastAPI, Flask, Render, HuggingFace Spaces
 Data: Power BI, Advance Excel, ETL, Data Cleaning, Data Modelling, Feature Engineering
 DevOps / Tools: Git, GitHub Actions, Docker, VS Code, Jupyter Notebook, Google Collab
 ```
-<div align="center">
-
-<table>
-<tr>
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Abhinavtiwari-doit&show_icons=true&theme=tokyonight" height="170"/>
-
-</td>
-<td>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinavtiwari-doit&theme=tokyonight" height="170"/>
-
-</td>
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinavtiwari-doit&layout=compact&theme=tokyonight" height="170"/>
-
-</td>
-</tr>
-</table>
-
-</div>
-
 ---
 
 <div align="center">
@@ -90,12 +66,7 @@ DevOps / Tools: Git, GitHub Actions, Docker, VS Code, Jupyter Notebook, Google C
 
 ---
 
-## 🏆 GitHub Trophies:
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abhinavtiwari-doit&theme=darkhub&no-frame=false&no-bg=true&margin-w=4" />
-</div>
 
----
 
 ### 👨‍💻 Currently Working On
 - 🧠 AI-powered Full Stack Interview Coach (LLM-based)
