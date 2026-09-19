@@ -75,7 +75,7 @@ DevOps / Tools: Git, GitHub Actions, Docker, VS Code, Jupyter Notebook, Google C
 
 ---
 
-⭐ If you like my work, feel free to star ⭐ my repos or reach out.
+ If you like my work, feel free to star my repos or reach out.
 
 
 <!--horizontal divider(gradiant)-->
