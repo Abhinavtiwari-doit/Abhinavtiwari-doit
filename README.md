@@ -22,27 +22,27 @@
 
 ---
 
-### 💡 What I Do
-- 🧠 Build & deploy **AI-powered applications** (NLP, CV, Predictive Models)
-- 📊 Create **data-driven dashboards** (Advance Excel, Power BI, Python)
-- ⚙️ Develop **end-to-end ML pipelines** (EDA → Feature Engineering → Model → Deployment)
-- 🛒 Freelance projects in **Dashboards, AI agents, automation & analytics**
-- 🔍 Interested in GenAI, LLM apps, intelligent automation, agentic systems
+###  What I Do
+-  Build & deploy **AI-powered applications** (NLP, CV, Predictive Models)
+-  Create **data-driven dashboards** (Advance Excel, Power BI, Python)
+-  Develop **end-to-end ML pipelines** (EDA → Feature Engineering → Model → Deployment)
+-  Freelance projects in **Dashboards, AI agents, automation & analytics**
+-  Interested in GenAI, LLM apps, intelligent automation, agentic systems
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 | Project | Tech | Demo / Repo |
 |---------|------|-------------|
-| 🤖 **AI Smart Health Diagnosis App** | ML, Streamlit, Scikit-Learn | 🔗 `https://shorturl.at/gVA7b` |
-| 🔥 **Roast My Code – AI Code Reviewer** | Hugging Face, NLP, FastAPI | 🔗 `https://shorturl.at/dHvXZ` |
-| 📈 **Interactive Excel Sales Dashboard** | Excel, Power Query, DAX | 🔗 `https://shorturl.at/FgQKi` |
+|  **AI Smart Health Diagnosis App** | ML, Streamlit, Scikit-Learn | 🔗 `https://shorturl.at/gVA7b` |
+|  **Roast My Code – AI Code Reviewer** | Hugging Face, NLP, FastAPI | 🔗 `https://shorturl.at/dHvXZ` |
+|  **Interactive Excel Sales Dashboard** | Excel, Power Query, DAX | 🔗 `https://shorturl.at/FgQKi` |
 
 > Each featured repo includes: problem, dataset, solution approach, results, and deployment instructions.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+###  Tech Stack & Tools
 ```yaml
 Languages: Python, MySQL, HTML5, CSS3, MongoDB
 AI/ML: Scikit-Learn, TensorFlow, Hugging Face, Pandas, NumPy, Pytorch, Seaborn, Matplotlib
@@ -56,11 +56,11 @@ DevOps / Tools: Git, GitHub Actions, Docker, VS Code, Jupyter Notebook, Google C
   
 | Platform     | Link                                              |
 | ------------ | ------------------------------------------------- |
-| 🔗 LinkedIn  | (https://www.linkedin.com/in/abhinavtiwari--/) |
-| 🌐 Portfolio | (https://abhinavtiwari-doit.github.io/Portfolio-Website/)|
-| 📧 Email     | [at049133@gmail.com](mailto:at049133@gmail.com)   |
-| 🌐 Blogs    | (https://hashnode.com/@abhinavtiwari)             |
-| 🧾 Resume    | (https://shorturl.at/yVJvL) |
+|  LinkedIn  | (https://www.linkedin.com/in/abhinavtiwari--/) |
+|  Portfolio | (https://abhinavtiwari-doit.github.io/Portfolio-Website/)|
+|  Email     | [at049133@gmail.com](mailto:at049133@gmail.com)   |
+|  Blogs    | (https://hashnode.com/@abhinavtiwari)             |
+|  Resume    | (https://shorturl.at/yVJvL) |
 
 </div>
 
@@ -68,17 +68,10 @@ DevOps / Tools: Git, GitHub Actions, Docker, VS Code, Jupyter Notebook, Google C
 
 
 
-### 👨‍💻 Currently Working On
-- 🧠 AI-powered Full Stack Interview Coach (LLM-based)
-- 🤝 Freelance AI + automation projects
-- 📘 Preparing ML case studies for portfolio
-
----
-
-### 💼 Open To
-✅ Full-time roles — Data Analyst / Data Scientist / ML Engineer  
-✅ Freelance work — AI apps, dashboards, automation  
-✅ Open-source collaboration — ML / GenAI projects  
+###  Currently Working On
+-  AI-powered Full Stack Interview Coach (LLM-based)
+-  Freelance AI + automation projects
+-  Preparing ML case studies for portfolio
 
 ---
 
